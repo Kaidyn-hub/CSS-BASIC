@@ -3,6 +3,7 @@ header{
     background-color: rgb(121, 64, 17);
     text-align: center;
     padding: 50px;
+    padding-bottom: 30px;
     font-size: large;
 }
 
@@ -13,7 +14,7 @@ body{
 
 .link-container{
     position: relative;
-    bottom: -120px;
+    bottom: -100px;
 }
 
 ul{
